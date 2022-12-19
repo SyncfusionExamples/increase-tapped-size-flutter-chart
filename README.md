@@ -1,6 +1,6 @@
 # How to increase the size of the tapped segment in the pie chart (SfCircularChart) 
 
-This repository contains a sample to increase the size of the tapped segment in [Pie Chart](https://help.syncfusion.com/flutter/circular-charts/getting-started)
+This repository contains a sample to increase the size of the tapped segment in [Pie Chart](https://help.syncfusion.com/flutter/circular-charts/getting-started).
 
 Please refer the KB through this [link](https://www.syncfusion.com/kb/13056/how-to-increase-the-size-of-the-tapped-segment-in-the-pie-chart-sfcircularchart).
 
